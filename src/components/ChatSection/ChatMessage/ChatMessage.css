@@ -1,0 +1,17 @@
+.Botmessage{
+   text-align: right;
+}
+.Botmessage .Message{
+   background: #eee;
+}
+
+.Message {
+   display: inline-block;
+    padding: 12px 20px;
+    border-radius: 10px;
+}
+
+.Usermessage .Message{
+   background: #0FB0DF;
+      color: white;
+}

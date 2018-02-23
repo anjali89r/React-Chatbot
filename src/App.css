@@ -1,0 +1,20 @@
+
+/*
+* {
+  box-sizing: border-box;
+}
+html {
+  background: rgba(black, 0.03);
+}
+body, html {
+  height: 100%;
+}
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 115%;
+  display: flex;
+  flex-direction: column;
+  max-width: 700px;
+  margin: 0 auto;
+}
+ */

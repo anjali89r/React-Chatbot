@@ -1,0 +1,11 @@
+.ChatOutput{
+   flex: 1;
+   padding: 20px;
+   display: flex;
+   background-color: white;
+   flex-direction: column;
+}
+
+.ChatOutput div{
+   margin: 0 0 20px 0;
+}

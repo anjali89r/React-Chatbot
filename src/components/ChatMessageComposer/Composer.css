@@ -1,0 +1,13 @@
+.Chatinput{
+   padding: 20px;
+  background: #eee;
+  border: 3px solid #ccc;
+
+}
+.Userinput{
+   width: 100%;
+    font-size: 2rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 8px;
+}
